@@ -1028,4 +1028,4 @@ function CrimeNetGui:init(ws, fullscreeen_ws, node)
 end
 
 CriminalsManager = CriminalsManager or class()
-CriminalsManager.MAX_NR_TEAM_AI = 2
+CriminalsManager.MAX_NR_TEAM_AI = 3
