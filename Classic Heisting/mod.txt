@@ -1,8 +1,8 @@
 {
-	"name" : "Classic Heisting Reborn",
-	"description" : "Restores gameplay to U24.2 as closely as possible",
-	"author" : "RedFlame, gorgbus",
-	"contact" : "https://discord.gg/35DZpJ4MRu",
+	"name" : "Classic Heisting Reborn Lite",
+	"description" : "Restores gameplay to U24.2 as closely as possible while keeping the niceties of modern PAYDAY 2.",
+	"author" : "RedFlame, gorgbus, Biblioklept",
+	"contact" : "https://github.com/Biblioklept/Classic-Heisting-Reborn-Lite/",
 	"version" : "1.1",
 	"priority" : "-11",
 	"image" : "ch_reborn.dds"
@@ -131,7 +131,7 @@
 		{
 			"identifier" : "classic_heisting_reborn",
 			"host": {
-				"meta": "https://github.com/gorgbus/Classic-Heisting-Reborn/releases/download/refs%2Fheads%2Fmain/meta.json"
+				"meta": "https://github.com/Biblioklept/Classic-Heisting-Reborn-Lite/releases/download/refs%2Fheads%2Fmain/meta.json"
 			}
 		}
 	]
